@@ -1,0 +1,20 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.board {
+    width: 850px;
+    height: 850px;
+    border: solid black;
+}
+
+div {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+}
+
+.black {
+    background-color: black;
+}
